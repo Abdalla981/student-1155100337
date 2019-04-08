@@ -22,3 +22,6 @@ I've picked up a part-time job developing a React platform for CUHK Business Sch
 - [ ] Learn a new programming language (Kotlin or Ruby)
 - [x] Learn the basics of blockchain
 - [ ] Learn more advanced topics of blockchain
+
+## Finally, this is the screenshot I included with all the commands I typed in the terminal
+![Alt text](./screenshot1.png)
